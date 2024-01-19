@@ -5,6 +5,7 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
+    "build:digitalocean": "npm install --include=dev && npm run build && npm ci",
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
