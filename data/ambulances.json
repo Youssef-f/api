@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Ambulance 1",
+    "date": "2022-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Ambulance 2",
+    "date": "2022-01-02"
+  },
+  {
+    "id": 3,
+    "name": "Ambulance 3",
+    "date": "2022-01-03"
+  },
+  {
+    "id": 4,
+    "name": "Ambulance 4",
+    "date": "2022-01-04"
+  },
+  {
+    "id": 5,
+    "name": "Ambulance 5",
+    "date": "2022-01-05"
+  },
+  {
+    "id": 6,
+    "name": "Ambulance 6",
+    "date": "2022-01-06"
+  },
+  {
+    "id": 7,
+    "name": "Ambulance 7",
+    "date": "2022-01-07"
+  },
+  {
+    "id": 8,
+    "name": "Ambulance 8",
+    "date": "2022-01-08"
+  },
+  {
+    "id": 9,
+    "name": "Ambulance 9",
+    "date": "2022-01-09"
+  },
+  {
+    "id": 10,
+    "name": "Ambulance 10",
+    "date": "2022-01-10"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api-course",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "youssef",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "nodemon": "^3.0.3"
+  }
+}
